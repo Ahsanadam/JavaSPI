@@ -1,5 +1,5 @@
 package org.example.message;
 
-public interface Message {
-    void sendMessage(String message);
+public class Message {
+   public String message;
 }
