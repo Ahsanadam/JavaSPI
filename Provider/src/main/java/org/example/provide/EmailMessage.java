@@ -7,6 +7,7 @@ public class EmailMessage implements MessageSender {
 
     @Override
     public void sendMessage(Message message) {
-        System.out.println("Sending Email with Message = " + message.message);
+        System.out.println("Sending Email with message = " + message.message);
+
     }
 }

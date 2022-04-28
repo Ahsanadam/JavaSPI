@@ -1,2 +1,2 @@
-org.example.provide.EmailMessage
 org.example.provide.PushNotificationMessage
+org.example.provide.EmailMessage

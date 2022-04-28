@@ -6,6 +6,6 @@ import org.example.message.MessageSender;
 public class PushNotificationMessage implements MessageSender {
     @Override
     public void sendMessage(Message message) {
-        System.out.println("Sending Push Notification with Message = " + message.message);
+        System.out.println("Sending Push Notification with message = " + message.message);
     }
 }
