@@ -1,4 +1,4 @@
-##Message Service Provider
+
 This is a simple console application called Message Service Provider that gives the
 user two options to write a message.
 
